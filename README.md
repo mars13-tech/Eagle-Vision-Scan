@@ -19,4 +19,4 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/mars13-teech/Eagle-Vision-Scan.git
+git clone https://github.com/mars13-tech/Eagle-Vision-Scan.git
