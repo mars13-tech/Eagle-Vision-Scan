@@ -1,6 +1,10 @@
 # Eagle Vision Scan
 
-**Eagle Vision Scan** is an automated network reconnaissance tool written in Bash. It performs host discovery, port scanning, service enumeration, and domain reconnaissance. This script is designed for beginners who want to learn hacking through hands-on, real-world examples.
+**Eagle Vision Scan** is a network reconnaissance tool for security analysts.
+It automates host discovery, port scanning, and service enumeration — 
+helping map attack surface and identify exposed services.
+
+MITRE ATT&CK Mapping: T1046 — Network Service Discovery
 
 ## 🚀 Features:
 - Host discovery (ping sweep)
